@@ -1,2 +1,2 @@
 # makeup
-makeup assignment: count to 6
+makeup assignment: count to 6 (5)
